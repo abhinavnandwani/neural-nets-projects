@@ -8,5 +8,5 @@ A repository of all the neural nets-related code/projects I've worked on.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Transformers
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
